@@ -15,10 +15,10 @@ layout: default
 <center> <h4> Brought to you by: </h4> </center>
 <center> <h2> Team Interyou </h2> </center>
 * * *
-<center> *   Abhishek Tumuluru </center>
-<center> *   Arav Thadani </center>
-<center> *   Danny Zhang </center>
-<center> *   Faisal Gedi </center>
-<center> *   Omar Baradei </center>
+<center> Abhishek Tumuluru </center>
+<center> Arav Thadani </center>
+<center> Danny Zhang </center>
+<center> Faisal Gedi </center>
+<center> Omar Baradei </center>
 
 
