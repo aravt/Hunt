@@ -1,4 +1,4 @@
-# HuntSite
+# Hunt
 
 # Hello, World!
 
