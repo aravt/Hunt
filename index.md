@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<center>  
-# [](#header-1)Are you tired of the inefficient and disorganized way of prepping and keepting track of your interviews?
-</center>
+<center> <h3> Are you tired of the inefficient and disorganized way of prepping and keepting track of your interviews? </h3> </center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<center> <h2> Worry no more! With the Hunt app, you have the ability to keep track of your interviews with scheduled reminders along with preperation from actual interviews with the company! </h2> </center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FnveHiDEYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
